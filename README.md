@@ -1,5 +1,6 @@
 # Christmas light show
-<img width="1266" height="585" alt="Light show" src="https://github.com/user-attachments/assets/9272a8da-7723-49ee-aa61-17929b6ea6ad" />
+<img width="1266" height="585" alt="Light show" src="https://github.com/user-attachments/assets/9272a8da-7723-49ee-aa61-17929b6ea6ad" />  
+Demo Video: https://youtu.be/NAZE_Fds844
 
 # Description
 5000 ws2811 pixels all synced to Christmas Music broadcasting over a radio transmitter. Includes 8 150 pixel candy canes, 3 talking coro props, 12 vertical strips outlining the house, pixels lining both the upper and lower eaves, 3 arches, 3 misc. coro props, and more. This year, there are 6 songs and intros to go along with them. Check out the rest of the info on the first journal entry on Blueprint! https://blueprint.hackclub.com/projects/2889 
