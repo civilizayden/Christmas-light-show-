@@ -19,8 +19,8 @@ Updated BOM (No prices) https://docs.google.com/spreadsheets/d/1Xa2EI2wlwdVwfPyo
 What I bought (and planned future years) https://docs.google.com/spreadsheets/d/11jQSqjK9UyYTpo5pdGDNUm04ESjPkl9dXwzr9_6BSaI/edit?usp=sharing
 
 # Helpful Links
-https://xlights.org/  
-https://drive.google.com/drive/folders/0B2ozCEidtWh3MUVzX0ZMc1pzY00?resourcekey=0-bD7_ydPiPmVUd8T9FHZO_w&usp=drive_link  
+https://xlights.org/ (Where the software I use comes from)  
+https://drive.google.com/drive/folders/0B2ozCEidtWh3MUVzX0ZMc1pzY00?resourcekey=0-bD7_ydPiPmVUd8T9FHZO_w&usp=drive_link (Where some of the pre-timed sequences come from)    
 https://www.youtube.com/@How2Pixel  
 https://www.youtube.com/@LearnChristmasLighting  
 https://www.wiredwatts.com/power-calculator?srsltid=AfmBOoqk16NR0v8PqQ3Z4cDig1-WHCPIHeh7d5umanBR-S5C9AF-Xj1H  
