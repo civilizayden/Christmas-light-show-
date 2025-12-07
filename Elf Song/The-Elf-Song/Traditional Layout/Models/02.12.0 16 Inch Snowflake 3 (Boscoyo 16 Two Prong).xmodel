@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel 
+name="02.12.0 16 Inch Snowflake 3" parm1="33" parm2="35" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="1" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,,,,,,,,,,21,,,,,,,,,,16,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,17,,,,15,,,,,;,,,,,22,,,,23,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,20,,,,,,,,,,14,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,24,,,,,,18,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,19,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10;,,,,,,,,,,,,25,,,,,,,,13,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,29,,,,26,,,,30,,,,,,,,,,,,,12,,,8,,,,11,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,7,,,,,,,,,,,,9;,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,36,,,,,,,6,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,32,,,,,,,,,,,2,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,33,,,35,,,,,,,,,,,,,,,5,,,4,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,34,,,,,,,,,,,3,,,,,,,,,," SourceVersion="2023.02"  >
+<subModel name="Tips" layout="horizontal" type="ranges" bufferstyle="Default" line0="21-23" line1="27-29" line2="33-35" line3="3-5" line4="9-11" line5="15-17" WorldPosX="482.2765" WorldPosY="189.6276" WorldPosZ="0.0000" ScaleX="0.3438" ScaleY="0.3235" ScaleZ="0.3438" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="13579">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Star" layout="horizontal" type="ranges" bufferstyle="Default" line0="1,7,13,19,25,31" WorldPosX="482.2765" WorldPosY="189.6276" WorldPosZ="0.0000" ScaleX="0.3438" ScaleY="0.3235" ScaleZ="0.3438" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="13573">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arms" layout="horizontal" type="ranges" bufferstyle="Default" line0="20-24" line1="26-30" line2="32-36" line3="2-6" line4="8-12" line5="14-18" WorldPosX="482.2765" WorldPosY="189.6276" WorldPosZ="0.0000" ScaleX="0.3438" ScaleY="0.3235" ScaleZ="0.3438" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="13576">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Spokes (V)" layout="vertical" type="ranges" bufferstyle="Default" line0="24,20,23" line1="30,26,29" line2="36,32,35" line3="6,2,5" line4="12,8,11" line5="18,14,17" WorldPosX="482.2765" WorldPosY="189.6276" WorldPosZ="0.0000" ScaleX="0.3438" ScaleY="0.3235" ScaleZ="0.3438" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="13576">
+  <ControllerConnection/>
+</subModel>
+</custommodel>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starmodel 
+name="03.12.0Mod MEGA TREE STAR" parm1="1" parm2="270" parm3="5" DisplayAs="Star" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" LayerSizes="20,30,40,50,60,70" starRatio="2.820000" starCenterPercent="44" StarStartLocation="Bottom Ctr-CW" StrandNames="" NodeNames="" SourceVersion="2023.02"  >
+<subModel name="Peaks" layout="vertical" type="ranges" bufferstyle="Default" line0="161,205,239,263,43,107,213,245,267,57,119,171,1,71,131,181,221,251,141,189,227,255,15,83,197,233,259,29,95,151" line1="30,96,152-153,198,234,260,238,262,204,42,106,160,44,108,162,206,240,264,212,244,266,56,118,170,58,120,172,214,246,268,220,250,270,70,130,180,2,72,132,182,222,252,188,226,254,14,82,140,16,84,142,190,228,256,196,232,258,28,94,150" line2="31,97,153,199,203,235,237,261,105,159,41,45,109,163,207,211,241,243,265,55,117,169,59,121,173,215,219,247,249,269,69,129,179,3,73,133,183,187,223,225,253,13,81,139,17,85,143,191,195,229,231,257,27,93,149" line3="32,98,154,200,202,236,40,104,158,46,110,164,208,210,242,54,116,168,60,122,174,216,218,248,68,128,178,4,74,134,184,186,224,12,80,138,26,92,148,192,194,230,18,86,144" line4="33,99,155,157,201,39,103,47,111,165,167,209,53,115,61,123,175,177,217,67,127,5,75,135,137,185,11,79,19,87,145,147,193,25,91" line5="34,38,100,102,156,48,52,112,114,166,62,66,124,126,176,6,10,76,78,136,20,24,88,90,146" line6="35,37,101,49,51,113,63,65,125,7,9,77,21,23,89" line7="36,50,64,8,22">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Star Arms" layout="vertical" type="ranges" bufferstyle="Default" line0="256,258,228,232,190,196,142,150,84,94,16,28,257,229,231,191,195,143,149,85,93,17,27,230,192,194,144,148,86,92,18,26,193,145,147,87,91,19,25,146,88,90,20,24,89,21,23-22" line1="252,254,222,226,182,188,132,140,72,82,2,14,253,223,225,183,187,133,139,73,81,3,13,224,184,186,134,138,74,80,4,12,185,135,137,75,79,5,11,136,76,78,6,10,77,7,9-8" line2="268,270,246,250,214,220,172,180,120,130,58,70,269,247,249,215,219,173,179,121,129,59,69,248,216,218,174,178,122,128,60,68,217,175,177,123,127,61,67,176,124,126,62,66,125,63,65-64" line3="264,266,240,244,206,212,162,170,108,118,44,56,265,241,243,207,211,163,169,109,117,45,55,242,208,210,164,168,110,116,46,54,209,111,165,167,115,47,53,166,112,114,48,52,113,49,51-50" line4="260,262,234,238,198,204,152,160,96,106,30,42,261,235,237,199,203,153,159,97,105,31,41,236,200,202,154,158,98,104,32,40,201,155,157,99,103,33,39,156,100,102,34,38,101,35,37-36">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Explosion" layout="vertical" type="ranges" bufferstyle="Default" line0="257,230,193,146,89,22-21,23,20,24,19,25,18,26,17,27,16,28" line1="253,224,185,136,77,8-7,9,6,10,5,11,4,12,3,13,2,14" line2="269,248,217,176,125,64-63,65,62,66,61,67,60,68,59,69,58,70" line3="265,242,209,166,113,50-49,51,48,52,47,53,46,54,45,55,44,56" line4="261,236,201,156,101,36-35,37,34,38,33,39,32,40,31,41,30,42">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Tailed Explosion" layout="vertical" type="ranges" bufferstyle="Default" line0="257,230,193,146,89,22-21,23,20,24,19,25,18,26,17,27,16,28,15,29,83,95,141,151,189,197,227,233,255,259" line1="253,224,185,136,77,8-7,9,6,10,5,11,4,12,3,13,2,14,1,15,71,83,131,141,181,189,221,227,251,255" line2="269,248,217,176,125,64-63,65,62,66,61,67,60,68,59,69,58,70,57,1,119,71,171,131,213,181,245,221,267,251" line3="265,242,209,166,113,50-49,51,48,52,47,53,46,54,45,55,44,56,43,57,107,119,161,171,205,213,239,245,263,267" line4="261,236,201,156,101,36-35,37,34,38,33,39,32,40,31,41,30,42,29,43,95,107,151,161,197,205,233,239,259,263">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Half and Half" layout="horizontal" type="ranges" bufferstyle="Default" line0="258,232,196,150,94,28,231,195,149,93,27,194,148,92,26,147,91,25,90,24,89,23-22" line1="254,226,188,140,82,14,225,187,139,81,13,186,138,80,12,137,79,11,78,10-8" line2="70,130,180,220,250,270,69,129,179,219,249,68,128,178,218,67,127,177,66,126,65-64" line3="170,212,244,266,56,118,169,211,243,55,117,54,116,168,210,53,115,167,52,114,51-50" line4="262,238,204,160,106,42,237,203,159,105,41,202,158,104,40,157,103,39,102,38-36" line5="256,228,190,142,84,16,229,191,143,85,17,192,144,86,18,145,87,19,88,20-22" line6="2,72,132,182,222,252,223,3,73,133,183,4,74,134,184,5,75,135,6,76,7-8" line7="268,214,246,172,120,58,247,215,173,121,59,216,174,122,60,175,123,61,124,62-64" line8="264,240,162,206,108,44,241,207,163,45,109,208,164,110,46,165,111,47,112,48-50" line9="260,234,198,152,96,30,235,199,153,97,31,200,154,98,32,155,99,33,100,34-36">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Outer Star 1" layout="horizontal" type="ranges" bufferstyle="Default" line0="1-70">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Layer 2 from Outside" layout="horizontal" type="ranges" bufferstyle="Default" line0="71-130">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Layer 3 from Outside" layout="horizontal" type="ranges" bufferstyle="Default" line0="131-180">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Layer 4 from Outside" layout="horizontal" type="ranges" bufferstyle="Default" line0="181-220">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Layer 5 from Outside" layout="horizontal" type="ranges" bufferstyle="Default" line0="221-250">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Inner Star 6" layout="horizontal" type="ranges" bufferstyle="Default" line0="251-270">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Outer Two Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="71-130" line1="1-70">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Middle Two Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="181-220" line1="131-180">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Inner Two Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="251-270" line1="221-250">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Outer Three Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="131-180" line1="71-130" line2="1-70">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Inner Three Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="251-270" line1="221-250" line2="181-220">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Odd Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="221-250" line1="131-180" line2="1-70">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Even Layers" layout="horizontal" type="ranges" bufferstyle="Default" line0="251-270" line1="181-220" line2="71-130">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Large Star Thick Star Tips" layout="horizontal" type="ranges" bufferstyle="Default" line0="21-23,89" line1="7-9,77" line2="63-65,125" line3="49-51,113" line4="35-37">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Star Tips - Nested" layout="horizontal" type="ranges" bufferstyle="Default" line0="257,230,193,146,89,22" line1="253,224,185,136,77,8" line2="269,248,217,176,125,64" line3="265,242,209,166,113,50" line4="261,236,201,156,101,36">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Center Spinner" layout="vertical" type="ranges" bufferstyle="Default" line0="259,233,197,151,95,29" line1="255,227,189,141,83,15" line2="251,221,181,131,71,1" line3="267,245,213,171,119,57" line4="263,239,205,161,107,43">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm Spinner" layout="vertical" type="ranges" bufferstyle="Default" line0="257,230,193,146,89,22" line1="253,224,185,136,77,8" line2="269,248,217,176,125,64" line3="265,242,209,166,113,50" line4="261,236,201,156,101,36">
+  <ControllerConnection/>
+</subModel>
+</starmodel>

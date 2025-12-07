@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2025.05</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>You&amp;apos;re A Mean One, Mr. Grinch</song>
+    <artist>Tyler, The Creator</artist>
+    <album>Dr. Seuss&amp;apos; The Grinch (Original Motion Picture Soundtrack)</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>Z:\Youre a mean one Mr. Grinch\Mr. Grinch\01 - You're A Mean One, Mr. Grinch.mp3</mediaFile>
+    <sequenceDuration>108.986</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FD8008,C_BUTTON_Palette7=#800080,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>T_TEXTCTRL_Fadein=1</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D</Effect>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=1.0 </Effect>
+    <Effect>T_TEXTCTRL_Fadeout=.5 </Effect>
+    <Effect>T_TEXTCTRL_Fadeout=.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=2,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=2,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=Old Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=104,E_SLIDER_Pinwheel_Arms=12,E_SLIDER_Pinwheel_Speed=4,E_SLIDER_Pinwheel_Thickness=100,E_SLIDER_Pinwheel_Twist=180</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=23,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-2,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-21,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=17,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='@arial unicode ms' 18 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=17,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=-32,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-25,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=1,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=25,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=grinched 18 utf-8,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=33,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-23,E_TEXTCTRL_Text=L A,E_TEXTCTRL_Text_Speed=10</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1864394083" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Arches Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Verticles Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Top Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Roofline Group" visible="1"/>
+    <Element collapsed="0" type="model" name="House Outline Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole House" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole Property" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 2" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Singing Tree 46 Inch w Bow 241 Node Middle Bottom Start" visible="1"/>
+    <Element collapsed="0" type="model" name="GE_3_Prong_100_Node_Flake" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Leg Lamp Matrix v2" visible="1"/>
+    <Element collapsed="0" type="model" name="House R Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="Gate Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="Gate Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="House L Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="House L Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="House R Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="House M Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="House M Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="Rightmost Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Tall Right-ish Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Top M Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Top L Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Tune To V2" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Arch" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Grumpy Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Z Left Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Z Right Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Ryker Window Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Singing Rudolph" visible="1"/>
+    <Element collapsed="0" type="model" name="Gate Arch" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 4" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 3" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 2" visible="1"/>
+    <Element collapsed="0" type="model" name="LE right" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 1" visible="1"/>
+    <Element collapsed="0" type="model" name="LE left" visible="1"/>
+    <Element collapsed="0" type="model" name="Small Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE above front window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going back" visible="1"/>
+    <Element collapsed="0" type="model" name="TE left" visible="1"/>
+    <Element collapsed="0" type="model" name="TE right" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going forward" visible="1"/>
+    <Element collapsed="0" type="model" name="TE Right 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 7" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane Group">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2150" endTime="3150" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="16150" endTime="17150" palette="0"/>
+        <Effect ref="2" name="On" id="2" startTime="46450" endTime="47350" palette="0"/>
+        <Effect ref="2" name="On" id="3" startTime="51400" endTime="52600" palette="0"/>
+        <Effect ref="3" name="On" id="4" startTime="54800" endTime="60100" palette="0"/>
+        <Effect ref="3" name="On" id="5" startTime="70400" endTime="71150" palette="1"/>
+        <Effect ref="3" name="On" id="6" startTime="73950" endTime="76100" palette="2"/>
+        <Effect ref="3" name="On" id="7" startTime="91050" endTime="91800" palette="1"/>
+        <Effect ref="3" name="On" id="8" startTime="94900" endTime="97000" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Door Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Verticles Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roofline Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Outline Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole House">
+      <EffectLayer>
+        <Effect ref="4" name="Curtain" startTime="5450" endTime="7450" palette="1"/>
+        <Effect ref="3" name="On" id="1" startTime="16800" endTime="17150" palette="1"/>
+        <Effect ref="0" name="On" id="2" startTime="21800" endTime="22150" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="22150" endTime="22450" palette="0"/>
+        <Effect ref="5" name="On" id="4" startTime="22450" endTime="22700" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="22700" endTime="23000" palette="0"/>
+        <Effect ref="6" name="On" id="6" startTime="23150" endTime="23350" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="27800" endTime="28150" palette="0"/>
+        <Effect ref="0" name="On" id="8" startTime="28150" endTime="28450" palette="0"/>
+        <Effect ref="5" name="On" id="9" startTime="28450" endTime="28700" palette="0"/>
+        <Effect ref="0" name="On" id="10" startTime="28700" endTime="29000" palette="0"/>
+        <Effect ref="6" name="On" id="11" startTime="29150" endTime="29350" palette="0"/>
+        <Effect ref="0" name="On" id="12" startTime="33150" endTime="33450" palette="0"/>
+        <Effect ref="0" name="On" id="13" startTime="33450" endTime="33750" palette="0"/>
+        <Effect ref="5" name="On" id="14" startTime="33750" endTime="34150" palette="0"/>
+        <Effect ref="0" name="On" id="15" startTime="34150" endTime="34400" palette="0"/>
+        <Effect ref="6" name="On" id="16" startTime="34500" endTime="34650" palette="0"/>
+        <Effect ref="7" name="Curtain" id="17" startTime="39500" endTime="43100" palette="0"/>
+        <Effect ref="0" name="On" id="18" startTime="49100" endTime="49400" palette="0"/>
+        <Effect ref="0" name="On" id="19" startTime="49400" endTime="49750" palette="0"/>
+        <Effect ref="5" name="On" id="20" startTime="49750" endTime="50100" palette="0"/>
+        <Effect ref="0" name="On" id="21" startTime="50100" endTime="50400" palette="0"/>
+        <Effect ref="0" name="On" id="22" startTime="76900" endTime="84200" palette="0"/>
+        <Effect ref="0" name="On" id="23" startTime="86800" endTime="87100" palette="0"/>
+        <Effect ref="0" name="On" id="24" startTime="87350" endTime="87650" palette="0"/>
+        <Effect ref="0" name="On" id="25" startTime="87950" endTime="89050" palette="0"/>
+        <Effect ref="0" name="On" id="26" startTime="92150" endTime="92450" palette="0"/>
+        <Effect ref="0" name="On" id="27" startTime="92700" endTime="93000" palette="0"/>
+        <Effect ref="0" name="On" id="28" startTime="93450" endTime="94600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Whole Property">
+      <EffectLayer/>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 1">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="10" name="Pinwheel" startTime="52650" endTime="54800" palette="3"/>
+        <Effect ref="11" name="Text" id="1" startTime="55500" endTime="60000" palette="0"/>
+        <Effect ref="11" name="Text" id="2" startTime="86750" endTime="89800" palette="0"/>
+        <Effect ref="11" name="Text" id="3" startTime="92050" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="12" name="Text" startTime="56000" endTime="60000" palette="0"/>
+        <Effect ref="12" name="Text" id="1" startTime="87250" endTime="89800" palette="0"/>
+        <Effect ref="12" name="Text" id="2" startTime="92550" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="13" name="Text" startTime="56600" endTime="60000" palette="0"/>
+        <Effect ref="14" name="Text" id="1" startTime="87850" endTime="89800" palette="0"/>
+        <Effect ref="14" name="Text" id="2" startTime="93150" endTime="94900" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="15" name="Text" startTime="57150" endTime="60000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="16" name="Text" startTime="57800" endTime="60000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="17" name="Text" startTime="58450" endTime="60000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Candy Cane 2">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Singing Tree 46 Inch w Bow 241 Node Middle Bottom Start">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE_3_Prong_100_Node_Flake">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Leg Lamp Matrix v2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House R Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gate Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gate Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House L Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House L Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House R Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House M Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House M Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rightmost Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tall Right-ish Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top M Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top L Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tune To V2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Arch">
+      <EffectLayer>
+        <Effect ref="3" name="On" startTime="54775" endTime="58125" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Grumpy Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Z Left Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Z Right Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ryker Window Frame">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Singing Rudolph">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gate Arch">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14025" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16125" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33575" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14025" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16125" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33575" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14025" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16125" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33575" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE going back 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Small Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE above front window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going back">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going forward">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE Right 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 3">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Candy Cane 4">
+      <EffectLayer>
+        <Effect ref="8" name="Curtain" startTime="14050" endTime="14850" palette="0"/>
+        <Effect ref="9" name="Curtain" id="1" startTime="14850" endTime="16150" palette="0"/>
+        <Effect ref="9" name="Curtain" id="2" startTime="31500" endTime="33600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Candy Cane 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 7">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

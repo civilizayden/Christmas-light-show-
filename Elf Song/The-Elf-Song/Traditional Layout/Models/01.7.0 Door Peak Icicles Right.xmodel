@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel 
+name="01.7.0 Door Peak Icicles Right" parm1="20" parm2="5" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,12,,,,28,,,,44,,,,60,,,,76,;,7,11,16,,23,27,32,,39,43,48,,55,59,64,,71,75,80;3,6,10,15,19,22,26,31,35,38,42,47,51,54,58,63,67,70,74,79;2,5,9,14,18,21,25,30,34,37,41,46,50,53,57,62,66,69,73,78;1,4,8,13,17,20,24,29,33,36,40,45,49,52,56,61,65,68,72,77" SourceVersion="2023.10"  >
+<subModel name="Tips" layout="horizontal" type="ranges" bufferstyle="Default" line0="12,28,44,60,76">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Big Drops" layout="horizontal" type="ranges" bufferstyle="Default" line0="72-76" line1="56-60" line2="40-44" line3="24-28" line4="8-12">
+  <ControllerConnection/>
+</subModel>
+<subModel name="All Tips" layout="horizontal" type="ranges" bufferstyle="Default" line0="3,7,12,16,19,23,28,32,35,39,44,48,51,55,60,64,67,71,76,80">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Web" layout="horizontal" type="ranges" bufferstyle="Default" line0="3,7-12,16,19,21,25,30,35,39-44,48,51,53,57,62,67,71-76,80">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arches" layout="horizontal" type="ranges" bufferstyle="Default" line0="3,7,12,16,19,21,25,30,35,39,44,48,51,53,57,62,67,71,76,80">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Stocking Trim" layout="horizontal" type="ranges" bufferstyle="Default" line0="4,8,20,24,36,40,52,56,68,72">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Stocking" layout="horizontal" type="ranges" bufferstyle="Default" line0="5-7,9-12,16,21-23,25-28,32,37-39,41-44,48,53-55,57-60,64,69-71,73-76,80">
+  <ControllerConnection/>
+</subModel>
+</custommodel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starmodel 
+name="02.21.0 Pole Star 1" parm1="1" parm2="60" parm3="5" DisplayAs="Star" StringType="RGB Nodes" Transparency="0" PixelSize="1" ModelBrightness="0" Antialias="1" LayerSizes="10,20,30" starRatio="2.618034" StarStartLocation="Bottom Ctr-CW" StrandNames="" NodeNames="" SourceVersion="2022.20"  >
+<subModel name="Tips" layout="horizontal" type="ranges" bufferstyle="Default" line0="26,36,46,6,16">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Flames" layout="horizontal" type="ranges" bufferstyle="Default" line0="39,15,40,55,53,41,56,51,31,42,57,59,43">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Inner Spinner" layout="vertical" type="ranges" bufferstyle="Default" line0="55,39,13" line1="53,35,7" line2="51,31,1" line3="59,47,25" line4="57,43,19">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm Spinner" layout="vertical" type="ranges" bufferstyle="Default" line0="54,37,10" line1="52,33,4" line2="60,49,28" line3="58,45,22" line4="56,41,16">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arms" layout="horizontal" type="ranges" bufferstyle="Default" line0="54,36,38,8,12,37,9,11-10" line1="52,32,34,2,6,33,3,5-4" line2="60,48,50,26,30,49,27,29-28" line3="58,44,46,20,24,45,21,23-22" line4="56,40,42,14,18,41,15,17-16">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Outline" layout="horizontal" type="ranges" bufferstyle="Default" line0="1-30" WorldPosX="422.7891" WorldPosY="82.5308" WorldPosZ="0.0000" ScaleX="0.4001" ScaleY="0.4332" ScaleZ="0.3558" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="79414">
+  <ControllerConnection/>
+</subModel>
+</starmodel>

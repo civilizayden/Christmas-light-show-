@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.01</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#FF8000,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#FF8000,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FF8000,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#FF0000,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#FF8000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#00FF00,C_BUTTON_Palette2=#FFFFFF,C_BUTTON_Palette3=#FF0000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FF8000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF8000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#0000FF,C_BUTTON_Palette2=#FF8000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FFFFFF,C_BUTTON_Palette5=#FF0000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#FF8000,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Right,E_NOTEBOOK_SSEFFECT_TYPE=Skips,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=15,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=0,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0,T_CHECKBOX_Canvas=1,T_CHOICE_LayerMethod=2 is Mask</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=1,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=0,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=1,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=1,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=0,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Right,E_NOTEBOOK_SSEFFECT_TYPE=Skips,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=5,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=0,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Position,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=0,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1212374853" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Arches Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Verticles Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Top Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Roofline Group" visible="1"/>
+    <Element collapsed="0" type="model" name="House Outline Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole House" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole Property" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Grumpy Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="GE SingingTree 30" visible="1"/>
+    <Element collapsed="0" type="model" name="Z Left Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Z Right Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Ryker Window Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Singing Rudolph" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 4" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 3" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 2" visible="1"/>
+    <Element collapsed="0" type="model" name="LE right" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 1" visible="1"/>
+    <Element collapsed="0" type="model" name="LE left" visible="1"/>
+    <Element collapsed="0" type="model" name="Small Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE above front window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going back" visible="1"/>
+    <Element collapsed="0" type="model" name="TE left" visible="1"/>
+    <Element collapsed="0" type="model" name="TE right" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going forward" visible="1"/>
+    <Element collapsed="0" type="model" name="TE Right 2" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Verticles Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roofline Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Outline Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole Property">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Grumpy Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE SingingTree 30">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Z Left Window">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="Marquee" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="1" name="Marquee" id="2" startTime="20000" endTime="30000" palette="3"/>
+        <Effect ref="1" name="Marquee" id="3" startTime="30000" endTime="40000" palette="4"/>
+        <Effect ref="1" name="Marquee" id="4" startTime="40000" endTime="50000" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Z Right Window">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="Marquee" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="1" name="Marquee" id="2" startTime="20000" endTime="30000" palette="3"/>
+        <Effect ref="1" name="Marquee" id="3" startTime="30000" endTime="40000" palette="4"/>
+        <Effect ref="1" name="Marquee" id="4" startTime="40000" endTime="50000" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Ryker Window Frame">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="Marquee" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="1" name="Marquee" id="2" startTime="20000" endTime="30000" palette="3"/>
+        <Effect ref="1" name="Marquee" id="3" startTime="30000" endTime="40000" palette="4"/>
+        <Effect ref="1" name="Marquee" id="4" startTime="40000" endTime="50000" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GE Singing Rudolph">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer>
+        <Effect ref="3" name="SingleStrand" startTime="0" endTime="50150" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE going back 4">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE going back 3">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE going back 2">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE right">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE going back 1">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="LE left">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Small Garage">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="Marquee" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="1" name="Marquee" id="2" startTime="20000" endTime="30000" palette="3"/>
+        <Effect ref="1" name="Marquee" id="3" startTime="30000" endTime="40000" palette="4"/>
+        <Effect ref="1" name="Marquee" id="4" startTime="40000" endTime="50000" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Big Garage">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="Marquee" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="1" name="Marquee" id="2" startTime="20000" endTime="30000" palette="3"/>
+        <Effect ref="1" name="Marquee" id="3" startTime="30000" endTime="40000" palette="4"/>
+        <Effect ref="1" name="Marquee" id="4" startTime="40000" endTime="50000" palette="5"/>
+        <Effect ref="4" name="Marquee" id="5" startTime="50000" endTime="60000" palette="1"/>
+        <Effect ref="4" name="Marquee" id="6" startTime="60000" endTime="70000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Front Window">
+      <EffectLayer>
+        <Effect ref="1" name="Marquee" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="Marquee" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="1" name="Marquee" id="2" startTime="20000" endTime="30000" palette="3"/>
+        <Effect ref="1" name="Marquee" id="3" startTime="30000" endTime="40000" palette="4"/>
+        <Effect ref="1" name="Marquee" id="4" startTime="40000" endTime="50000" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TE above front window">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TE going back">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TE left">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going forward">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="50100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TE Right 2">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

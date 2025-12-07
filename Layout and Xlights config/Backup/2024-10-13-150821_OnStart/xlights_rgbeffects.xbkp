@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Poly Line" Controller="No Controller" LayoutGroup="Default" WorldPosX="-407.0086" WorldPosY="99.0071" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="39" PointData="550.260925,178.401321,0.000000,216.822952,537.836853,0.000000,588.388733,-325.170776,0.000000,692.724548,113.834900,0.000000,692.724548,113.834900,0.000000,695.570251,110.079269,0.000000,839.054871,142.968674,0.000000,361.067444,293.760956,0.000000,448.977875,-94.615799,0.000000,47.332211,-328.370880,0.000000,692.724426,113.834900,0.000000,692.724426,113.834900,0.000000,695.570190,110.079269,0.000000,695.570190,110.079269,0.000000,590.241821,8.558761,0.000000,578.762573,17.128714,0.000000,578.662231,32.879826,0.000000,782.407898,-74.771957,0.000000,537.674438,-25.332502,0.000000,524.563538,5.743064,0.000000,526.426147,-1.156082,0.000000,571.435730,-28.544821,0.000000,352.912933,240.249313,0.000000,746.321594,2.026436,0.000000,683.278259,60.292866,0.000000,734.113708,3.670967,0.000000,290.737396,-136.376297,0.000000,-202.776779,-650.891907,0.000000,135.796188,-558.913025,0.000000,-1113.651733,-2277.252441,0.000000,-1768.748169,-2856.740723,0.000000,-1630.190063,-2467.106201,0.000000,-832.339844,-1261.510498,0.000000,1180.494507,334.295563,0.000000,560.503784,105.092987,0.000000,550.260925,178.401321,0.000000,1133.775146,-216.398453,0.000000,636.210815,111.282257,0.000000,638.957153,106.109589,0.000000" cPointData="" versionNumber="7" StartChannel="511">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object name="Mesh" DisplayAs="Mesh" LayoutGroup="Default" ObjFile="/Users/jon/Downloads/ImageToStl.com_house.obj" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="90.00000000" RotateZ="90.00000000" versionNumber="7"/>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="7"/>
+  </view_objects>
+  <effects version="0007"/>
+  <views/>
+  <palettes/>
+  <modelGroups/>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=199;besth=148;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=487;besth=889;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=593;besth=406;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=566;besth=264;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1260;besth=756;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=35;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=603;besth=176;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=392;besth=385;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=304;besth=276;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=247;besth=80;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=220;floaty=72;floatw=320;floath=199|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=296;besth=221;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=352|dock_size(1,0,0)=143|dock_size(5,0,0)=298|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+    <LayoutMode3D value="1"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="128" Blue="152"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <TextHighlighted Red="0" Green="0" Blue="255"/>
+    <TextUnselected Red="211" Green="211" Blue="211"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformMouseMarker Red="0" Green="0" Blue="255"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>

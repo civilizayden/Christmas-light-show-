@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2025.06</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#0000FF,C_BUTTON_Palette2=#FFFFFF,C_BUTTON_Palette3=#FF0000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_COLOURPICKERCTRL_SparklesColour=#777777</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=6.0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="7536737" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Arches Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Verticles Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Top Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Roofline Group" visible="1"/>
+    <Element collapsed="0" type="model" name="House Outline Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole House" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole Property" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy cane bars" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane Rows" visible="1"/>
+    <Element collapsed="0" type="model" name="GE JOY Gil 200 Node" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 2" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Singing Tree 46 Inch w Bow 241 Node Middle Bottom Start" visible="1"/>
+    <Element collapsed="0" type="model" name="GE_3_Prong_100_Node_Flake" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Leg Lamp Matrix v2" visible="1"/>
+    <Element collapsed="0" type="model" name="House R Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="Gate Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="Gate Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="House L Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="House L Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="House R Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="House M Column L" visible="1"/>
+    <Element collapsed="0" type="model" name="House M Column R" visible="1"/>
+    <Element collapsed="0" type="model" name="Rightmost Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Tall Right-ish Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Top M Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Top L Vert." visible="1"/>
+    <Element collapsed="0" type="model" name="Tune To V2" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Arch" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Grumpy Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Z Left Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Z Right Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Ryker Window Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="GE Singing Rudolph" visible="1"/>
+    <Element collapsed="0" type="model" name="Gate Arch" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 4" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 3" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 2" visible="1"/>
+    <Element collapsed="0" type="model" name="LE right" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 1" visible="1"/>
+    <Element collapsed="0" type="model" name="LE left" visible="1"/>
+    <Element collapsed="0" type="model" name="Small Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE above front window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going back" visible="1"/>
+    <Element collapsed="0" type="model" name="TE left" visible="1"/>
+    <Element collapsed="0" type="model" name="TE right" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going forward" visible="1"/>
+    <Element collapsed="0" type="model" name="TE Right 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Cane 7" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Verticles Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Lower Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roofline Group">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" selected="1" startTime="0" endTime="45850" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="House Outline Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole Property">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy cane bars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane Rows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE JOY Gil 200 Node">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Singing Tree 46 Inch w Bow 241 Node Middle Bottom Start">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE_3_Prong_100_Node_Flake">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Leg Lamp Matrix v2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House R Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gate Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gate Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House L Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House L Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House R Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House M Column L">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House M Column R">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rightmost Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tall Right-ish Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top M Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top L Vert.">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tune To V2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Arch">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Grumpy Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Z Left Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Z Right Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ryker Window Frame">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GE Singing Rudolph">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gate Arch">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Small Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE above front window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going back">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going forward">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE Right 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Cane 7">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

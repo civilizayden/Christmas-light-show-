@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Arches-3" LayoutGroup="Default" Controller="F48 v2.55" ModelChain="&gt;Arches-2" WorldPosX="136.7863" WorldPosY="0.0000" WorldPosZ="462.3990" X2="47.856262" Y2="0.000000" Z2="14.428650" RotateX="0.00000000" Height="1.000000" Angle="3" versionNumber="5" StartChannel="!F48 v2.55:2632">
+      <ControllerConnection Port="13" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Arches-2" LayoutGroup="Default" Controller="F48 v2.55" ModelChain="&gt;Arches" WorldPosX="94.0851" WorldPosY="0.0000" WorldPosZ="447.5356" X2="42.097801" Y2="0.000000" Z2="15.275543" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="!F48 v2.55:2482">
+      <ControllerConnection Port="13" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Arches" LayoutGroup="Default" Controller="F48 v2.55" WorldPosX="45.8822" WorldPosY="0.0000" WorldPosZ="432.6491" X2="46.027115" Y2="0.000000" Z2="15.489563" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="!F48 v2.55:2332">
+      <ControllerConnection Protocol="ws2811" Port="13"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="LE going back 4" Controller="F48 v2.55" ModelChain="&gt;LE going back 3" WorldPosX="58.0000" WorldPosY="95.0000" WorldPosZ="166.1275" X2="-0.926201" Y2="0.000000" Z2="-123.430313" versionNumber="5" StartChannel="!F48 v2.55:1366">
+      <ControllerConnection Port="5" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="4" name="LE going back 3" Controller="F48 v2.55" ModelChain="&gt;LE going back 2" WorldPosX="65.0000" WorldPosY="90.0000" WorldPosZ="165.0000" X2="-6.689999" Y2="5.000000" Z2="0.000000" versionNumber="5" StartChannel="!F48 v2.55:1354">
+      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <Aliases>
+        <alias name="oldname:le going left"/>
+      </Aliases>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="15" name="LE going back 2" Controller="F48 v2.55" ModelChain="&gt;LE right" WorldPosX="65.0000" WorldPosY="90.0000" WorldPosZ="200.0000" X2="0.000000" Y2="0.000000" Z2="-35.000000" versionNumber="5" StartChannel="!F48 v2.55:1309">
+      <ControllerConnection Port="5" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="LE right" Controller="F48 v2.55" ModelChain="&gt;LE going back 1" WorldPosX="-50.0000" WorldPosY="90.0000" WorldPosZ="200.0000" X2="115.000000" Y2="0.000000" Z2="0.000000" versionNumber="5" StartChannel="!F48 v2.55:1159">
+      <ControllerConnection Port="5" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="7" name="LE going back 1" Controller="F48 v2.55" ModelChain="&gt;LE left" WorldPosX="-50.0000" WorldPosY="90.0000" WorldPosZ="220.0000" X2="0.000000" Y2="0.000000" Z2="-21.298691" versionNumber="5" StartChannel="!F48 v2.55:1138">
+      <ControllerConnection Port="5" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="LE left" parm2="83" Controller="F48 v2.55" WorldPosX="-301.8805" WorldPosY="90.0000" WorldPosZ="219.7988" X2="251.880508" Y2="1.304199" Z2="0.201279" versionNumber="5" StartChannel="!F48 v2.55:889">
+      <ControllerConnection Protocol="ws2811" Port="5"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" parm3="0" name="Small Garage" Controller="F48 v2.55" parm1="44" parm2="40" WorldPosX="-13.6090" WorldPosY="43.7129" WorldPosZ="182.0000" ScaleX="2.1782" ScaleY="2.1306" ScaleZ="0.3749" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!F48 v2.55:1">
+      <ControllerConnection Protocol="ws2811" Port="1"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" parm3="0" name="Big Garage" Controller="F48 v2.55" parm2="40" parm1="92" WorldPosX="-183.1305" WorldPosY="43.4592" WorldPosZ="182.0000" ScaleX="1.9945" ScaleY="2.1483" ScaleZ="0.1823" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!F48 v2.55:373">
+      <ControllerConnection Protocol="ws2811" Port="2" reverse="1"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" name="Front Window" parm2="45" parm1="57" parm3="57" Controller="F48 v2.55" WorldPosX="194.6078" WorldPosY="71.7455" WorldPosZ="-62.6123" ScaleX="1.7505" ScaleY="2.0020" ScaleZ="0.3033" RotateX="0.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!F48 v2.55:2782">
+      <ControllerConnection Protocol="ws2811" Port="17"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="64" name="TE above front window" Controller="F48 v2.55" ModelChain="&gt;TE going back" WorldPosX="116.0874" WorldPosY="143.2239" WorldPosZ="-40.0000" X2="190.377182" Y2="0.000000" Z2="0.000000" versionNumber="5" StartChannel="!F48 v2.55:2140">
+      <ControllerConnection Port="9" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="44" name="TE going back" Controller="F48 v2.55" ModelChain="&gt;TE right" WorldPosX="138.3962" WorldPosY="230.0000" WorldPosZ="63.1070" X2="1.603806" Y2="0.000000" Z2="-103.226105" versionNumber="5" StartChannel="!F48 v2.55:2008">
+      <ControllerConnection Port="9" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="44" name="TE left" Controller="F48 v2.55" WorldPosX="-319.5389" WorldPosY="230.0000" WorldPosZ="20.0000" X2="125.291046" Y2="0.000000" Z2="0.000000" versionNumber="5" StartChannel="!F48 v2.55:1516">
+      <ControllerConnection Protocol="ws2811" Port="9"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="106" name="TE right" Controller="F48 v2.55" ModelChain="&gt;TE going forward" WorldPosX="140.0000" WorldPosY="230.0000" WorldPosZ="62.9450" X2="-331.287781" Y2="0.000000" Z2="0.000000" versionNumber="5" StartChannel="!F48 v2.55:1690">
+      <ControllerConnection Port="9" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="14" name="TE going forward" Controller="F48 v2.55" ModelChain="&gt;TE left" WorldPosX="-193.4299" WorldPosY="230.0000" WorldPosZ="20.0000" X2="1.698654" Y2="0.000000" Z2="43.000000" versionNumber="5" StartChannel="!F48 v2.55:1648">
+      <ControllerConnection Port="9" Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object name="Mesh" DisplayAs="Mesh" LayoutGroup="Default" ObjFile="/Users/jon/Downloads/ImageToStl.com_house+(1).obj" Brightness="30" WorldPosX="-300.0000" WorldPosY="0.0000" WorldPosZ="200.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0007"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="Garage" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Big Garage,Small Garage"/>
+    <modelGroup selected="0" name="Lower Eave" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="LE going back 1,LE going back 2,LE going back 3,LE going back 4,LE left,LE right"/>
+    <modelGroup selected="0" name="Top Eave" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="TE above front window,TE going back,TE going forward,TE left,TE right"/>
+    <modelGroup selected="0" name="Big Window" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Front Window"/>
+    <modelGroup selected="0" name="Arches group" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Arches,Arches-2,Arches-3"/>
+    <modelGroup selected="0" name="All" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Arches,Arches-2,Arches-3,Big Garage,Front Window,LE going back 1,LE going back 2,LE going back 3,LE going back 4,LE left,LE right,Small Garage,TE above front window,TE going back,TE going forward,TE left,TE right"/>
+    <modelGroup selected="0" name="House Outline" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Garage,Lower Eave,Top Eave"/>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=199;besth=148;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=487;besth=889;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=593;besth=406;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=566;besth=264;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1260;besth=756;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=35;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=603;besth=176;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=392;besth=385;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=304;besth=276;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=247;besth=80;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=220;floaty=72;floatw=320;floath=199|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=296;besth=221;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=352|dock_size(1,0,0)=143|dock_size(5,0,0)=298|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <LayoutMode3D value="1"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="128" Blue="152"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <TextHighlighted Red="0" Green="0" Blue="255"/>
+    <TextUnselected Red="211" Green="211" Blue="211"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformMouseMarker Red="0" Green="0" Blue="255"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>

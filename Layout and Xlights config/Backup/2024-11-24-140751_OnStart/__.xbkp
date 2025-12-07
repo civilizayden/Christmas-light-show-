@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.01</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=10,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Lower Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Top Eave" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches group" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="House Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 4" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 3" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 2" visible="1"/>
+    <Element collapsed="0" type="model" name="LE right" visible="1"/>
+    <Element collapsed="0" type="model" name="LE going back 1" visible="1"/>
+    <Element collapsed="0" type="model" name="LE left" visible="1"/>
+    <Element collapsed="0" type="model" name="Small Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE above front window" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going back" visible="1"/>
+    <Element collapsed="0" type="model" name="TE left" visible="1"/>
+    <Element collapsed="0" type="model" name="TE right" visible="1"/>
+    <Element collapsed="0" type="model" name="TE going forward" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage">
+      <EffectLayer>
+        <Effect ref="0" name="Fan" selected="1" startTime="0" endTime="4850" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Lower Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Top Eave">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE going back 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LE left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Small Garage">
+      <EffectLayer>
+        <Effect ref="1" name="Bars" startTime="0" endTime="6250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Big Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE above front window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going back">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="TE going forward">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
