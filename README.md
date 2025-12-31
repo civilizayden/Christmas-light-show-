@@ -5,7 +5,7 @@ Demo Video: https://youtu.be/NAZE_Fds844
 # Description
 5000 ws2811 pixels all synced to Christmas Music broadcasting over a radio transmitter. Includes 8 150 pixel candy canes, 3 talking coro props, 12 vertical strips outlining the house, pixels lining both the upper and lower eaves, 3 arches, 3 misc. coro props, and more. This year, there are 6 songs and intros to go along with them. Check out the rest of the info on the first journal entry on Blueprint! https://blueprint.hackclub.com/projects/2889 
 # Files
-I made all of the 3D files in onshape. Here's the links.  
+I made all of the 3D files in onshape. Here's the links. I also uploaded them in .STEP format if you prefer that.  
   
 WS2811 C9 clip-on: https://cad.onshape.com/documents/8e1d7c661a392a3fe8e3e552/w/2b79da62459af95523f34f54/e/d7efcc39778d9abc5af3c911?renderMode=0&uiState=693366db0d2694ebb8294135  
   
