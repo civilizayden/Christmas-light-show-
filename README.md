@@ -10,8 +10,10 @@ I made all of the 3D files in onshape. Here's the links. I also uploaded them in
 WS2811 C9 clip-on: https://cad.onshape.com/documents/8e1d7c661a392a3fe8e3e552/w/2b79da62459af95523f34f54/e/d7efcc39778d9abc5af3c911?renderMode=0&uiState=693366db0d2694ebb8294135  
   
 Vinyl J-Channel mount: https://cad.onshape.com/documents/51a32ab9cf6896e0ba53c2dc/w/2990cc1af5a4b7a38f5fad82/e/b13150ecd5dd56c7a36f59c3?renderMode=0&uiState=6933676878f669f93ecdb466  
-  
-PVC Clips: https://cad.onshape.com/documents/375a82727fe5ef4efe572c79/w/5d09f987b7f6cf59758c8e57/e/284350d5c3d51f49c312d2c3?renderMode=0&uiState=693367840d2694ebb829440d
+<img src="https://github.com/user-attachments/assets/9a2e909b-b11d-47e3-b67f-9fe63c30cf7f" width="200">  
+PVC Clips: https://cad.onshape.com/documents/375a82727fe5ef4efe572c79/w/5d09f987b7f6cf59758c8e57/e/284350d5c3d51f49c312d2c3?renderMode=0&uiState=693367840d2694ebb829440d  
+<img src="https://github.com/user-attachments/assets/ef05341a-c2e3-46f2-8fca-435b0740fe5f" width="200">
+
 # BOM
 I made the BOM in a google sheet, so I'll link it here as well as upload the exported file.  
 Updated BOM (No prices) https://docs.google.com/spreadsheets/d/1Xa2EI2wlwdVwfPyok5QENcuQ3c6ftch68BoIPOs7dK0/edit?usp=sharing  
@@ -33,10 +35,15 @@ Each receiver board has four ports, which have a limit of 704 pixels per port in
 You can also configure the receiver board to do daisy chaining, meaning instead of running a length of Ethernet cable all of the way back to the F48, you can run one to the first receiver, then from one receiver to the next. You can chain up to 3 receivers off of one cable, but this has the disadvantage of requiring you to split the number of pixels per port across the chained boxes. For example, if you have 704 pixels per port on that chain, spot 1a + spot 1b has to be less than or equal to 704, rather than just having 704 pixels on spot one.  
   
 The F48 is connected to a raspberry pi running a software called falcon pixel player (FPP), which controls the show’s start and stop times, and allows me to control it via a handy web UI. This also stores the sequences, which are outputted from Xlights.  
+<img src="https://github.com/user-attachments/assets/1116bf1c-237d-48e3-ba3f-c069fbea086f" width="200"> <img src="https://github.com/user-attachments/assets/2c39143e-360c-43e2-814a-d680708d842b" width="200">
+
+
 # Control Boxes
 The way I have my boxes wired is simple, yet difficult to assemble if your pigtails are not long enough. I use xconnect pigtails to connect the pixels to the boxes and to each other. The Xconnect pigtail is currently the standard for light displays like mine.  
   
 The boxes that are not used for daisy chaining have 6 ports, including the RJ45 input, the power input, and four pixel outputs. The boxes which are daisy chained have an additional RJ45 output. It is wired as shown, with the bottom pigtail on the outside being port one and the top one being port four. I use 12V 30A power supplies in my boxes, with the exception of the one used by the candy canes, which is 50A. 
+<img src="https://github.com/user-attachments/assets/7338c102-ecca-4b3d-85ba-17f5739c6a0d" width="200"> <img src="https://github.com/user-attachments/assets/e5cb5186-41af-4287-8ec0-ac36cee24610" width="200">
+
 
 # History
   There is a lot to catch up on. I want to document this project in at least some detail because of how long I have been working on it. This project has taken me the better part of two years, and has been a lot of fun and work. Because Blueprint only started this October, I am only going to be logging the hours since then, even though this log will also be going into detail about everything I have done before then. I will break this project down into the sections that I have done, not necessarily in chronological order.  
