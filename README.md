@@ -25,6 +25,18 @@ https://www.youtube.com/@How2Pixel
 https://www.youtube.com/@LearnChristmasLighting  
 https://www.wiredwatts.com/power-calculator?srsltid=AfmBOoqk16NR0v8PqQ3Z4cDig1-WHCPIHeh7d5umanBR-S5C9AF-Xj1H  
 http://spikerlights.com/calcpower.aspx  
+# Pixel Controller
+This is an explanation of the Falcon F48, which is the controller that I used to run my light show. The F48 is a differential transmitter board. Basically what this means is that the pixels don’t have to be next to the controller, you just have to have a receiver board near the pixels to connect them to. You connect via an Ethernet cable with an RJ45 connector.  
+  
+Each receiver board has four ports, which have a limit of 704 pixels per port in 48-port mode if you want to run your show at 40fps. However, the max you can run without power injection on one port is 300 pixels. There are 3 banks of pixels on the F48 which can be configured to share up to 1024 pixels, so max of bank1 + max of bank2 + max of bank3 cant exceed 1024.  
+  
+You can also configure the receiver board to do daisy chaining, meaning instead of running a length of Ethernet cable all of the way back to the F48, you can run one to the first receiver, then from one receiver to the next. You can chain up to 3 receivers off of one cable, but this has the disadvantage of requiring you to split the number of pixels per port across the chained boxes. For example, if you have 704 pixels per port on that chain, spot 1a + spot 1b has to be less than or equal to 704, rather than just having 704 pixels on spot one.  
+  
+The F48 is connected to a raspberry pi running a software called falcon pixel player (FPP), which controls the show’s start and stop times, and allows me to control it via a handy web UI. This also stores the sequences, which are outputted from Xlights.  
+# Control Boxes
+The way I have my boxes wired is simple, yet difficult to assemble if your pigtails are not long enough. I use xconnect pigtails to connect the pixels to the boxes and to each other. The Xconnect pigtail is currently the standard for light displays like mine.  
+  
+The boxes that are not used for daisy chaining have 6 ports, including the RJ45 input, the power input, and four pixel outputs. The boxes which are daisy chained have an additional RJ45 output. It is wired as shown, with the bottom pigtail on the outside being port one and the top one being port four. I use 12V 30A power supplies in my boxes, with the exception of the one used by the candy canes, which is 50A. 
 
 # History
   There is a lot to catch up on. I want to document this project in at least some detail because of how long I have been working on it. This project has taken me the better part of two years, and has been a lot of fun and work. Because Blueprint only started this October, I am only going to be logging the hours since then, even though this log will also be going into detail about everything I have done before then. I will break this project down into the sections that I have done, not necessarily in chronological order.  
